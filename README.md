@@ -1,7 +1,4 @@
-div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 # Hi there! 👋 I'm Koushik Mondal
 I'm a passionate developer with a strong focus on creative problem-solving and engineering innovation. Here, you can explore my projects, learn more about my work, and find ways to get in touch with me.  
