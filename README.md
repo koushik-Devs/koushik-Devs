@@ -68,6 +68,9 @@
 
 ###
 
+<h2 align="center">My spotify activities' </h2>
+
+###
 <div align="center">
   <a href="https://open.spotify.com/user/31ov5jd2dg65zir4q5xven2h6jfm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ov5jd2dg65zir4q5xven2h6jfm&count=3&unique=true" alt="Spotify recently played"  />
