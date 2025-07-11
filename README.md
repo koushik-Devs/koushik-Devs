@@ -1,83 +1,52 @@
-<h1 align="center">Hi there! 👋 I'm Koushik Mondal</h1>
+<h1 align="center">Hello 👋, I'm Koushik</h1>
+<h3 align="center">A Passionate Developer | Cybersecurity Enthusiast | Data Science Explorer</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koushik-devs&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-devs" />
+</p>
 
-<p align="left">I'm a passionate developer with a strong focus on creative problem-solving and engineering innovation. Here, you can explore my projects, learn more about my work, and find ways to get in touch with me.</p>
+---
 
-###
+### 👨‍💻 About Me
 
-<h2 align="center">About me</h2>
+- 🎓 I'm a tech enthusiast diving deep into **Cyber Security** and **Web Development**  
+- 🔭 I’m currently working on:  
+  `🔐 Cyber Threat Intelligence Dashboard`   
+  `🧠 Network Intrusion Detection System (NIDS)`
+  `📊 Restaurant Recommendation System`  
+- 🌱 I’m learning:  
+  `Machine Learning`, `Threat Detection`, `Power BI`, and `FastAPI`
+- 💬 Ask me about:  
+  `Python`, `Flask`, `Pandas`, `Cyber Threats`, `GitHub Projects`
+- 📫 Reach me at: **koushik.mondal.ek@gmail.com**
 
-###
+---
 
-<p align="left">🎓 Education: I'm currently a B.Tech CSE student(Third-year)<br>📚 I'm currently learning Cyber Security Analysis<br>🎯 Goals: Developer <br>❓ Ask me about anything related to related technologies</p>
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-###
+---
 
-<h2 align="center">My skills set</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="anaconda logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<h2 align="center">Connect with me</h2>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/koushik0mondal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+### 🌍 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/kmondalek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/__hi_euko.24__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
+  <a href="mailto:koushik.mondal.ek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mondalkoushik.me1813@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<h2 align="center">My spotify activities' </h2>
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/31ov5jd2dg65zir4q5xven2h6jfm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ov5jd2dg65zir4q5xven2h6jfm&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###  
-<div align="center">
-  
-## Thanks for visiting my github profile....!!🙏🏻  
-
-</div>
+<p align="center">✨ Always exploring, always building. Let's innovate together! 🚀</p>
+<p align="center">🙏 Thank you for visiting my profile!</p>
